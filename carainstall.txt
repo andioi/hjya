@@ -1,9 +1,0 @@
-https://nodejs.org/en/
-https://git-scm.com/
-
-$ apt update && apt upgrade -y
-$ apt install nodejs git
-$ git clone https://github.com/anadhelf/ig
-$ cd ig
-$ npm install 
-$ node fftauto
